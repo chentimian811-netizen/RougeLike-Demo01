@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Obj
+  - Enemy
+  - FollowPlayerCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Player
+  - Enemy
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2425651459
+    locked: 0
+  - name: Obj
+    uniqueID: 4250941897
+    locked: 0
+  - name: Phoresy
+    uniqueID: 4189426099
+    locked: 0
+  - name: Player
+    uniqueID: 75611723
+    locked: 0
+  - name: Weapons
+    uniqueID: 568348429
+    locked: 0
+  - name: Scene
+    uniqueID: 2544628149
+    locked: 0
+  - name: Enemies
+    uniqueID: 1720193217
+    locked: 0
+  - name: UI
+    uniqueID: 2088420209
+    locked: 0
+  - name: particle
+    uniqueID: 4030312295
+    locked: 0
+  - name: Reward
+    uniqueID: 831906139
+    locked: 0
